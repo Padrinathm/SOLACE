@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <item>
+    <name>Item 01</name>
+    <price>15</price>
+  </item>
+  <item>
+    <name>Item 02</name>
+    <price>30</price>
+  </item>
+</data>
